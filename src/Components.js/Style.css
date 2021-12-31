@@ -1,0 +1,48 @@
+.main{
+    border: 2px solid greenyellow;
+    background-color: greenyellow;
+    height: 60px;
+}
+.home1{
+    margin-right: 19px;
+    margin-top: 2px;
+}
+/* .student{
+    position: relative;
+    bottom: 58px;
+} */
+
+.contact{
+    position: relative;
+    left: 12px;
+    bottom: 15px;
+}
+.changecolor{
+    text-decoration-color:blue;
+    color: blue;
+}
+.change{
+    margin-right: 20px;
+}
+.button{
+    position: relative;
+    left: 686px;
+    border-radius: 30px;
+    width: 144px;
+    height: 45px;
+    background-color: darkgray;
+    color: brown;
+    top: 54px;
+    font-size: larger;
+}
+.table{
+    border:2px solid gray;
+
+}
+.mainhead{
+    margin-top: 8px;
+    margin-right: 1122px;
+}
+.container{
+    height: 500px;
+}
